@@ -1,5 +1,5 @@
 # Logistic-Regression
-### Logistic Regression Classification in Python using sklearn
+### Logistic Regression Classification Application in Python using sklearn
 
 This repository contains the analysis of baseball statistics using MLB Statcast Metrics.
 
