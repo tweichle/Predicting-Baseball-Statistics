@@ -1,5 +1,5 @@
 # Logistic-Regression
-### Logistic Regression Classification Application with Over-Sampling Implementation for Imbalanced Data in Python using sklearn
+### Logistic Regression Classification Application with Over-Sampling Implementation for Imbalanced Data in Python Using scikit-learn
 
 This repository contains the analysis of baseball statistics using MLB Statcast Metrics.
 
