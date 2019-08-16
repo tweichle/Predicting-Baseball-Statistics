@@ -14,3 +14,5 @@ This repository contains the prediction of baseball statistics using MLB Statcas
 - Apply regularization and cross-validation techniques for model evaluation, selection, and optimization.
 
 - Build and train Decision-Classification Tree models to predict home runs and extra-base hits.
+
+- Build and train Random Forest Classification models to predict home runs and extra-base hits.
