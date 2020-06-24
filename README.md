@@ -20,3 +20,7 @@ This repository contains the prediction of baseball statistics using MLB Statcas
 - Build and train a Support Vector Machine Classification model to predict home runs.
     - Implement over-sampling for imbalanced data to improve the quality of predictive modeling (i.e., generalizability).
     - Apply regularization and cross-validation techniques for model evaluation, selection, and optimization.
+
+- Build and train an XGBoost Classification model to predict home runs.
+    - Implement over-sampling for imbalanced data to improve the quality of predictive modeling (i.e., generalizability).
+    - Apply cross-validation techniques for model evaluation, selection, and optimization.
