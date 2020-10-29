@@ -1,5 +1,5 @@
-# Predicting-Baseball-Statistics-Classification
-### Classification Application in Python Using scikit-learn
+# Predicting-Baseball-Statistics
+### Classification and Regression Applications in Python Using scikit-learn
 
 This repository contains the prediction of baseball statistics using MLB Statcast Metrics.
 
@@ -20,4 +20,10 @@ This repository contains the prediction of baseball statistics using MLB Statcas
 - Implement over-sampling for imbalanced data to improve the quality of predictive modeling (i.e., generalizability).
 - Apply regularization and cross-validation techniques for model evaluation, selection, and optimization.
 
+**Regression**
+- Build and train models to predict hit distance implementing the following approaches:
+    - Linear Regression
+    - Decision-Regression Tree
+    - Random Forest Regression
 
+- Apply regularization (Ridge, Lasso, Elastic Net) and cross-validation (k-fold) techniques for model evaluation, selection, and optimization.
