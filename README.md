@@ -9,18 +9,15 @@ This repository contains the prediction of baseball statistics using MLB Statcas
 
 - Using MLB Statcast Metrics, summarize and examine baseball statistics.
 
-- Build and train a Logistic Regression Classification model to predict home runs.
-    - Implement over-sampling for imbalanced data to improve the quality of predictive modeling (i.e., generalizability).
-    - Apply regularization and cross-validation techniques for model evaluation, selection, and optimization.
+**Classification**
+- Build and train models to predict home runs and extra-base hits implementing the following approaches:
+    - Logistic Regression
+    - Decision-Classification Tree
+    - Random Forest Classification
+    - Support Vector Machine Classification
+    - XGBoost Classification
+    
+- Implement over-sampling for imbalanced data to improve the quality of predictive modeling (i.e., generalizability).
+- Apply regularization and cross-validation techniques for model evaluation, selection, and optimization.
 
-- Build and train Decision-Classification Tree models to predict home runs and extra-base hits.
 
-- Build and train Random Forest Classification models to predict home runs and extra-base hits.
-
-- Build and train a Support Vector Machine Classification model to predict home runs.
-    - Implement over-sampling for imbalanced data to improve the quality of predictive modeling (i.e., generalizability).
-    - Apply regularization and cross-validation techniques for model evaluation, selection, and optimization.
-
-- Build and train an XGBoost Classification model to predict home runs.
-    - Implement over-sampling for imbalanced data to improve the quality of predictive modeling (i.e., generalizability).
-    - Apply cross-validation techniques for model evaluation, selection, and optimization.
