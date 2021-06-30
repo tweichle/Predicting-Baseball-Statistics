@@ -12,6 +12,7 @@ This repository contains the prediction of baseball statistics using MLB Statcas
 **Classification**
 - Build and train models to predict home runs and extra-base hits implementing the following approaches:
     - Logistic Regression
+    - k-Nearest Neighbors
     - Decision-Classification Tree
     - Random Forest Classification
     - Support Vector Machine Classification
