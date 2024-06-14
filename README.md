@@ -1,5 +1,5 @@
 # Predicting-Baseball-Statistics
-### Classification and Regression Applications in Python Using scikit-learn
+### Classification and Regression Applications in Python Using scikit-learn and TensorFlow-Keras
 
 This repository contains the prediction of baseball statistics using MLB Statcast Metrics.
 
